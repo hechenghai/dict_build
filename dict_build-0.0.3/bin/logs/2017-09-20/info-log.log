@@ -1,0 +1,153 @@
+2017-09-20 09:37:03.064 [main] INFO  dict.build.FastBuilder - start to extract words
+2017-09-20 09:37:03.209 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 1000
+2017-09-20 09:37:03.224 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 2000
+2017-09-20 09:37:03.243 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 3000
+2017-09-20 09:37:03.258 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 4000
+2017-09-20 09:37:03.268 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 5000
+2017-09-20 09:37:03.283 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 6000
+2017-09-20 09:37:03.297 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 7000
+2017-09-20 09:37:03.314 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 8000
+2017-09-20 09:37:03.329 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 9000
+2017-09-20 09:37:03.341 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 10000
+2017-09-20 09:37:03.362 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 11000
+2017-09-20 09:37:03.366 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 12000
+2017-09-20 09:37:03.372 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 13000
+2017-09-20 09:37:03.376 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 14000
+2017-09-20 09:37:03.379 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 15000
+2017-09-20 09:37:03.385 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 16000
+2017-09-20 09:37:03.392 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 17000
+2017-09-20 09:37:03.396 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 18000
+2017-09-20 09:37:03.403 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 19000
+2017-09-20 09:37:03.408 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 20000
+2017-09-20 09:37:03.411 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 21000
+2017-09-20 09:37:03.416 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 22000
+2017-09-20 09:37:03.420 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 23000
+2017-09-20 09:37:03.424 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 24000
+2017-09-20 09:37:03.429 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 25000
+2017-09-20 09:37:03.434 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 26000
+2017-09-20 09:37:03.439 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 27000
+2017-09-20 09:37:03.444 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 28000
+2017-09-20 09:37:03.448 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 29000
+2017-09-20 09:37:03.453 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 30000
+2017-09-20 09:37:03.457 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 31000
+2017-09-20 09:37:03.461 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 32000
+2017-09-20 09:37:03.467 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 33000
+2017-09-20 09:37:03.473 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 34000
+2017-09-20 09:37:03.477 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 35000
+2017-09-20 09:37:03.482 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 36000
+2017-09-20 09:37:03.487 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 37000
+2017-09-20 09:37:03.492 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 38000
+2017-09-20 09:37:03.497 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 39000
+2017-09-20 09:37:03.504 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 40000
+2017-09-20 09:37:03.510 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 41000
+2017-09-20 09:37:03.516 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 42000
+2017-09-20 09:37:03.523 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 43000
+2017-09-20 09:37:03.528 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 44000
+2017-09-20 09:37:03.532 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 45000
+2017-09-20 09:37:03.539 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 46000
+2017-09-20 09:37:03.544 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 47000
+2017-09-20 09:37:03.550 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 48000
+2017-09-20 09:37:03.555 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 49000
+2017-09-20 09:37:03.587 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 50000
+2017-09-20 09:37:03.595 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 51000
+2017-09-20 09:37:03.606 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 52000
+2017-09-20 09:37:03.614 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 53000
+2017-09-20 09:37:03.620 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 54000
+2017-09-20 09:37:03.625 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 55000
+2017-09-20 09:37:03.631 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 56000
+2017-09-20 09:37:03.639 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 57000
+2017-09-20 09:37:03.647 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 58000
+2017-09-20 09:37:03.654 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 59000
+2017-09-20 09:37:03.660 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 60000
+2017-09-20 09:37:03.677 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 61000
+2017-09-20 09:37:03.686 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 62000
+2017-09-20 09:37:03.694 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 63000
+2017-09-20 09:37:03.699 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 64000
+2017-09-20 09:37:03.712 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 65000
+2017-09-20 09:37:03.718 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 66000
+2017-09-20 09:37:03.725 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 67000
+2017-09-20 09:37:03.731 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 68000
+2017-09-20 09:37:03.746 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 69000
+2017-09-20 09:37:03.756 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 70000
+2017-09-20 09:37:03.763 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 71000
+2017-09-20 09:37:03.780 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 72000
+2017-09-20 09:37:03.813 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 73000
+2017-09-20 09:37:03.841 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 74000
+2017-09-20 09:37:03.876 [main] INFO  dict.build.FastBuilder - load freq to radix tree done: 75000
+2017-09-20 09:37:03.910 [main] INFO  dict.build.FastBuilder - build freq TST done!
+2017-09-20 09:37:03.927 [main] INFO  dict.build.FastBuilder - extract words done: 1000
+2017-09-20 09:37:03.941 [main] INFO  dict.build.FastBuilder - extract words done: 2000
+2017-09-20 09:37:03.958 [main] INFO  dict.build.FastBuilder - extract words done: 3000
+2017-09-20 09:37:03.977 [main] INFO  dict.build.FastBuilder - extract words done: 4000
+2017-09-20 09:37:03.989 [main] INFO  dict.build.FastBuilder - extract words done: 5000
+2017-09-20 09:37:04.010 [main] INFO  dict.build.FastBuilder - extract words done: 6000
+2017-09-20 09:37:04.022 [main] INFO  dict.build.FastBuilder - extract words done: 7000
+2017-09-20 09:37:04.042 [main] INFO  dict.build.FastBuilder - extract words done: 8000
+2017-09-20 09:37:04.059 [main] INFO  dict.build.FastBuilder - extract words done: 9000
+2017-09-20 09:37:04.079 [main] INFO  dict.build.FastBuilder - extract words done: 10000
+2017-09-20 09:37:04.090 [main] INFO  dict.build.FastBuilder - extract words done: 11000
+2017-09-20 09:37:04.110 [main] INFO  dict.build.FastBuilder - extract words done: 12000
+2017-09-20 09:37:04.121 [main] INFO  dict.build.FastBuilder - extract words done: 13000
+2017-09-20 09:37:04.141 [main] INFO  dict.build.FastBuilder - extract words done: 14000
+2017-09-20 09:37:04.153 [main] INFO  dict.build.FastBuilder - extract words done: 15000
+2017-09-20 09:37:04.172 [main] INFO  dict.build.FastBuilder - extract words done: 16000
+2017-09-20 09:37:04.184 [main] INFO  dict.build.FastBuilder - extract words done: 17000
+2017-09-20 09:37:04.204 [main] INFO  dict.build.FastBuilder - extract words done: 18000
+2017-09-20 09:37:04.216 [main] INFO  dict.build.FastBuilder - extract words done: 19000
+2017-09-20 09:37:04.236 [main] INFO  dict.build.FastBuilder - extract words done: 20000
+2017-09-20 09:37:04.253 [main] INFO  dict.build.FastBuilder - extract words done: 21000
+2017-09-20 09:37:04.269 [main] INFO  dict.build.FastBuilder - extract words done: 22000
+2017-09-20 09:37:04.286 [main] INFO  dict.build.FastBuilder - extract words done: 23000
+2017-09-20 09:37:04.306 [main] INFO  dict.build.FastBuilder - extract words done: 24000
+2017-09-20 09:37:04.318 [main] INFO  dict.build.FastBuilder - extract words done: 25000
+2017-09-20 09:37:04.338 [main] INFO  dict.build.FastBuilder - extract words done: 26000
+2017-09-20 09:37:04.350 [main] INFO  dict.build.FastBuilder - extract words done: 27000
+2017-09-20 09:37:04.388 [main] INFO  dict.build.FastBuilder - extract words done: 28000
+2017-09-20 09:37:04.398 [main] INFO  dict.build.FastBuilder - extract words done: 29000
+2017-09-20 09:37:04.405 [main] INFO  dict.build.FastBuilder - extract words done: 30000
+2017-09-20 09:37:04.411 [main] INFO  dict.build.FastBuilder - extract words done: 31000
+2017-09-20 09:37:04.418 [main] INFO  dict.build.FastBuilder - extract words done: 32000
+2017-09-20 09:37:04.423 [main] INFO  dict.build.FastBuilder - extract words done: 33000
+2017-09-20 09:37:04.432 [main] INFO  dict.build.FastBuilder - extract words done: 34000
+2017-09-20 09:37:04.439 [main] INFO  dict.build.FastBuilder - extract words done: 35000
+2017-09-20 09:37:04.446 [main] INFO  dict.build.FastBuilder - extract words done: 36000
+2017-09-20 09:37:04.452 [main] INFO  dict.build.FastBuilder - extract words done: 37000
+2017-09-20 09:37:04.458 [main] INFO  dict.build.FastBuilder - extract words done: 38000
+2017-09-20 09:37:04.468 [main] INFO  dict.build.FastBuilder - extract words done: 39000
+2017-09-20 09:37:04.475 [main] INFO  dict.build.FastBuilder - extract words done: 40000
+2017-09-20 09:37:04.481 [main] INFO  dict.build.FastBuilder - extract words done: 41000
+2017-09-20 09:37:04.487 [main] INFO  dict.build.FastBuilder - extract words done: 42000
+2017-09-20 09:37:04.493 [main] INFO  dict.build.FastBuilder - extract words done: 43000
+2017-09-20 09:37:04.503 [main] INFO  dict.build.FastBuilder - extract words done: 44000
+2017-09-20 09:37:04.510 [main] INFO  dict.build.FastBuilder - extract words done: 45000
+2017-09-20 09:37:04.518 [main] INFO  dict.build.FastBuilder - extract words done: 46000
+2017-09-20 09:37:04.524 [main] INFO  dict.build.FastBuilder - extract words done: 47000
+2017-09-20 09:37:04.533 [main] INFO  dict.build.FastBuilder - extract words done: 48000
+2017-09-20 09:37:04.540 [main] INFO  dict.build.FastBuilder - extract words done: 49000
+2017-09-20 09:37:04.546 [main] INFO  dict.build.FastBuilder - extract words done: 50000
+2017-09-20 09:37:04.553 [main] INFO  dict.build.FastBuilder - extract words done: 51000
+2017-09-20 09:37:04.558 [main] INFO  dict.build.FastBuilder - extract words done: 52000
+2017-09-20 09:37:04.569 [main] INFO  dict.build.FastBuilder - extract words done: 53000
+2017-09-20 09:37:04.575 [main] INFO  dict.build.FastBuilder - extract words done: 54000
+2017-09-20 09:37:04.582 [main] INFO  dict.build.FastBuilder - extract words done: 55000
+2017-09-20 09:37:04.588 [main] INFO  dict.build.FastBuilder - extract words done: 56000
+2017-09-20 09:37:04.597 [main] INFO  dict.build.FastBuilder - extract words done: 57000
+2017-09-20 09:37:04.604 [main] INFO  dict.build.FastBuilder - extract words done: 58000
+2017-09-20 09:37:04.611 [main] INFO  dict.build.FastBuilder - extract words done: 59000
+2017-09-20 09:37:04.617 [main] INFO  dict.build.FastBuilder - extract words done: 60000
+2017-09-20 09:37:04.624 [main] INFO  dict.build.FastBuilder - extract words done: 61000
+2017-09-20 09:37:04.633 [main] INFO  dict.build.FastBuilder - extract words done: 62000
+2017-09-20 09:37:04.640 [main] INFO  dict.build.FastBuilder - extract words done: 63000
+2017-09-20 09:37:04.647 [main] INFO  dict.build.FastBuilder - extract words done: 64000
+2017-09-20 09:37:04.653 [main] INFO  dict.build.FastBuilder - extract words done: 65000
+2017-09-20 09:37:04.659 [main] INFO  dict.build.FastBuilder - extract words done: 66000
+2017-09-20 09:37:04.668 [main] INFO  dict.build.FastBuilder - extract words done: 67000
+2017-09-20 09:37:04.675 [main] INFO  dict.build.FastBuilder - extract words done: 68000
+2017-09-20 09:37:04.681 [main] INFO  dict.build.FastBuilder - extract words done: 69000
+2017-09-20 09:37:04.687 [main] INFO  dict.build.FastBuilder - extract words done: 70000
+2017-09-20 09:37:04.693 [main] INFO  dict.build.FastBuilder - extract words done: 71000
+2017-09-20 09:37:04.703 [main] INFO  dict.build.FastBuilder - extract words done: 72000
+2017-09-20 09:37:04.709 [main] INFO  dict.build.FastBuilder - extract words done: 73000
+2017-09-20 09:37:04.715 [main] INFO  dict.build.FastBuilder - extract words done: 74000
+2017-09-20 09:37:04.721 [main] INFO  dict.build.FastBuilder - start to sort extracted words
+2017-09-20 09:37:04.725 [main] INFO  dict.build.FastBuilder - all done
